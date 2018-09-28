@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 New file created hurray!
+=======
+New file created
+Adding changes to the file.
+>>>>>>> 41bbd8009a684d36c154a9c6d5acd93004b57758
